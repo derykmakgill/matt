@@ -8,3 +8,62 @@ title: Deryk Makgill
 <p class="header">I am the <a href="#rails">creator of Ruby on Rails</a>, <a href="#basecamp">cofounder &amp; CTO at Basecamp</a>, <a href="#rework">best-selling author</a>, <a href="#driver">Le Mans class-winning racing driver</a>, <a href="#podcasts">frequent podcast guest</a>, and <a href="#family">family man</a>.</p>
 
 <p>You can find me on <a href="http://twitter.com/dhh">Twitter</a> or <a href="mailto:david@hey.com">write an email</a>. (I'm not on Facebook, LinkedIn, or Instagram).</p>
+
+
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview" style="
+    margin-top: 30px;
+">
+    <a href="{{ post.url | relative_url }}" style="
+    text-decoration: none;
+">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-date">
+      Published or updated on {{ post.date | date_to_string }}
+    </p>
+
+    <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ post.image | relative_url }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="post-entry">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+    </div>
+
+ {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
+   </article>
+  {% endfor %}
+</div>

@@ -21,18 +21,18 @@ title: Deryk Makgill
 ">
 	  <h2 class="post-title">{{ post.title }}</h2>
 
-	  {% if post.subtitle %}
+ {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
 	  </h3>
 	  {% endif %}
     </a>
 
-    <p class="post-date">
+   <p class="post-date">
       Published or updated on {{ post.date | date_to_string }}
     </p>
 
-    <div class="post-entry-container">
+   <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
         <a href="{{ post.url | relative_url }}" style="

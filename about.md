@@ -3,6 +3,8 @@ layout: page
 title: About Deryk Makgill
 ---
 
+# About Deryk Makgill
+
 <p class="intro">Howdy. My name is Matthew Mullenweg. I was born and raised in Houston, Texas. I write code, prose, and music. I love <a href="https://ma.tt/gallery/">taking photos</a>.</p>
 
 
@@ -56,25 +58,6 @@ title: About Deryk Makgill
 
 
 <p>A few notable links:</p>
-
-
-
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube  wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube amp-wp-ad18994" data-amp-original-style="text-align:center; display: block;"><amp-iframe class="youtube-player amp-wp-enforced-sizes amp-wp-cbdc213 i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" width="580" height="327" src="https://www.youtube.com/embed/x6fIseKzzH0?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="" sandbox="allow-scripts allow-same-origin" layout="intrinsic" data-amp-original-style="border:0;" i-amphtml-layout="intrinsic"><i-amphtml-sizer class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;charset=utf-8,<svg height=&quot;327&quot; width=&quot;580&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; version=&quot;1.1&quot;/>"></i-amphtml-sizer><span placeholder="" class="amp-wp-iframe-placeholder"></span><noscript><iframe class="youtube-player amp-wp-cbdc213" width="580" height="327" src="https://www.youtube.com/embed/x6fIseKzzH0?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" data-amp-original-style="border:0;"></iframe></noscript></amp-iframe></span>
-</div></figure>
-
-
-
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube  wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube amp-wp-ad18994" data-amp-original-style="text-align:center; display: block;"><amp-iframe class="youtube-player amp-wp-enforced-sizes amp-wp-cbdc213 i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" width="580" height="327" src="https://www.youtube.com/embed/LezbkeV059Q?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="" sandbox="allow-scripts allow-same-origin" layout="intrinsic" data-amp-original-style="border:0;" i-amphtml-layout="intrinsic"><i-amphtml-sizer class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;charset=utf-8,<svg height=&quot;327&quot; width=&quot;580&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; version=&quot;1.1&quot;/>"></i-amphtml-sizer><span placeholder="" class="amp-wp-iframe-placeholder"></span><noscript><iframe class="youtube-player amp-wp-cbdc213" width="580" height="327" src="https://www.youtube.com/embed/LezbkeV059Q?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" data-amp-original-style="border:0;"></iframe></noscript></amp-iframe></span>
-</div></figure>
-
-
-
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube  wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube amp-wp-ad18994" data-amp-original-style="text-align:center; display: block;"><amp-iframe class="youtube-player amp-wp-enforced-sizes amp-wp-cbdc213 i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" width="580" height="327" src="https://www.youtube.com/embed/LMGb2UoNFYM?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="" sandbox="allow-scripts allow-same-origin" layout="intrinsic" data-amp-original-style="border:0;" i-amphtml-layout="intrinsic"><i-amphtml-sizer class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;charset=utf-8,<svg height=&quot;327&quot; width=&quot;580&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; version=&quot;1.1&quot;/>"></i-amphtml-sizer><span placeholder="" class="amp-wp-iframe-placeholder"></span><noscript><iframe class="youtube-player amp-wp-cbdc213" width="580" height="327" src="https://www.youtube.com/embed/LMGb2UoNFYM?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" data-amp-original-style="border:0;"></iframe></noscript></amp-iframe></span>
-</div></figure>
-
 
 
 <ul><li><a href="https://om.co/2020/01/16/podcast-interviewing-matt-mullenweg/">Om Malik interviews for True Foundation series</a> (January 2020)</li><li><a href="https://rework.fm/open-source-and-power-with-matt-mullenweg/">Rework podcast: Open Source and Power</a> (October 2019)</li><li><a href="https://techcrunch.com/2019/09/19/automattic-ceo-matt-mullenweg-about-raising-300-million-and-the-open-web/">Techcrunch: How Automattic wants to build the operating system of the web</a> (September 2019)</li><li><a href="https://www.theverge.com/2019/8/14/20804894/tumblr-acquisition-matt-mullenweg-ceo-automattic-wordpress-verizon-changes-vergecast">The Verge: Automattic CEO on what’s next for Tumblr</a> (August 2019)</li><li><a href="https://www.recode.net/2018/8/2/17641412/matt-mullenweg-wordpress-media-privacy-advertising-data-reckoning-kara-swisher-decode-podcast">Podcast: Interview with Kara Swisher / Recode Decode</a> (August 2018)</li><li>With Tim Ferriss: <a href="https://tim.blog/2015/02/09/matt-mullenweg/">On Polyphasic Sleep, Tequila, and Building Billion-Dollar Companies</a> (2015), <a href="https://tim.blog/2016/10/01/matt-mullenweg-on-the-characteristics-and-practices-of-successful-entrepreneurs/">Characteristics and Practices of Successful Entrepreneurs</a> (2016), <a href="https://tim.blog/2016/12/16/the-random-show-threesome-tim-ferriss-kevin-rose-and-matt-mullenweg/">Random Show with Tim Ferriss and Kevin Rose</a>.</li></ul>
